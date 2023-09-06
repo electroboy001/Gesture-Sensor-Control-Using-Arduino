@@ -1,16 +1,15 @@
 # Gesture-Sensor-Control-Using-Arduino
 This DF robot Gravity sensor integrates the gesture controls with touch switches. Now we have more combinations to control the ON/OFF switch
-
+get more info: https://www.hackster.io/electroboy001/gesture-sensor-control-using-arduino-52e719
 This sensor module integrates gesture recognition and touch detecting functions in one piece, and provides an adjustable detection range within 0~30cm. When connected to your microcontroller, it can detect 5-way touch signal and 7 kinds of gestures: move left, move right, move forward, move backward, pull up, pull down, pull and remove.
 
 ![mini_IMG_9263](https://github.com/electroboy001/Gesture-Sensor-Control-Using-Arduino/assets/97245507/b4fdbcba-2c1d-40c5-9710-d5751ace8ec3)
 
-Besides, the sensor is also equipped with the function of auto-sleep and wake up. The module comes with the gesture recognition algorithm and provides simple and reliable data output. Use the sensor to directly communicate with upper computer or micro-controllers like Arduino and 
-Raspberry Pi via serial port.
+Besides, the sensor is also equipped with the function of auto-sleep and wake up. The module comes with the gesture recognition algorithm and provides simple and reliable data output. Use the sensor to directly communicate with upper computer or micro-controllers like Arduino and Raspberry Pi via serial port. 
 
 ![14269f4b51ea30ff14325a0d02b8155c](https://github.com/electroboy001/Gesture-Sensor-Control-Using-Arduino/assets/97245507/b099e4b4-c77c-4af0-87bc-e0067ffec83f)
 
-It works on the principle of infrared detection, the hand motion is monitored using an infrared led and sensing system. The infrared light strikes with hand and go to the sensing unit for proper interpretation. Infrared (IR) light is comes in invisible spectra and the sensor used in this mechanism is very selective because IR is also  present in the sunlight that's why sensor is less effective in outdoors.
+It works on the principle of infrared detection, the hand motion is monitored using an infrared led and sensing system. The infrared light strikes with hand and go to the sensing unit for proper interpretation. Infrared (IR) light is comes in invisible spectra and the sensor used in this mechanism is very selective because IR is also  present in the sunlight that's why sensor is less effective in outdoors. Sponsored by JLCPCB: https://jlcpcb.com/?from=SSA
 
 Application of gesture and touch:
 
@@ -77,6 +76,7 @@ ARDUINO NANO
 Breadboard
 
 Custom PCB design from JLCPCB
+https://jlcpcb.com/?from=SSA
 
 Circuit diagram:
 
@@ -105,6 +105,7 @@ PCB designs:
 ![PCB](https://github.com/electroboy001/Gesture-Sensor-Control-Using-Arduino/assets/97245507/e88ca69e-0713-4990-98c4-d6059c6d0849)
 
 I designed a shield to the simple project which I think is a good way to do these. In the shield Arduino Nano is used which is soldered on board and the connections can be made through male headers near it. To display any data it has onboard 128x64 OLED, for digital output it has a buzzer and led. It has optimised power section just supply it with barrel jack from 9-12volts. Order the PCB directly uploading the GERBER files to JLCPCB, Sign-up to JLCPCB using this link and get free PCB coupons of worth $54 for your next order. This link is only applicable to new users.
+https://jlcpcb.com/?from=SSA
 
 Testing:
 
