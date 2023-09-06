@@ -117,3 +117,4 @@ I tested this sensor with 20cm height, no sleep mode and all the functions are a
 The best response I got when in sunlight the pull up, pull down, pull and remove functions are used the response is good because in these 3 cases sensor is covered with hand. The touch response is very good and quicker than any other touch sensor.
 
 The touch wires can be extended and external copper pad can be designed for any applications. I made this simple code to only toggle LEDs via controlling digital outputs of Arduino, you can write your own functions to do something else, now it's up to you how you play. Make sure to give a try to the JLCPCB SMT assembly and PCB services in very good prices.
+https://jlcpcb.com/?from=SSA
