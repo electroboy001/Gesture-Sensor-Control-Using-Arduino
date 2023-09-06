@@ -1,6 +1,7 @@
 # Gesture-Sensor-Control-Using-Arduino
 This DF robot Gravity sensor integrates the gesture controls with touch switches. Now we have more combinations to control the ON/OFF switch
-get more info: https://www.hackster.io/electroboy001/gesture-sensor-control-using-arduino-52e719
+Get more info: https://www.hackster.io/electroboy001/gesture-sensor-control-using-arduino-52e719
+
 This sensor module integrates gesture recognition and touch detecting functions in one piece, and provides an adjustable detection range within 0~30cm. When connected to your microcontroller, it can detect 5-way touch signal and 7 kinds of gestures: move left, move right, move forward, move backward, pull up, pull down, pull and remove.
 
 ![mini_IMG_9263](https://github.com/electroboy001/Gesture-Sensor-Control-Using-Arduino/assets/97245507/b4fdbcba-2c1d-40c5-9710-d5751ace8ec3)
